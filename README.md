@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kaac0128/kaac0128/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kaac0128/kaac0128/9a592be3e7b39dfd62dfd6c5c9744c3f4fc99eb6/snake.svg" alt="Snake animation" />
 
 ###
 
